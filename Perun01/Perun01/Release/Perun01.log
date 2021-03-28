@@ -1,0 +1,7 @@
+﻿  main.cpp
+  point.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Perun01.vcxproj -> C:\Users\840\source\repos\Perun01\Release\Perun01.exe

@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\840\source\repos\Perun09\Perun09\main.cpp(12,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\840\source\repos\Perun09\Perun09\main.cpp(18,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\840\source\repos\Perun09\Perun09\main.cpp(33,17): warning C4244: '=': conversion from 'double' to 'Elem', possible loss of data
+          with
+          [
+              Elem=int
+          ]
+C:\Users\840\source\repos\Perun09\Perun09\main.cpp(40,27): warning C4018: '<': signed/unsigned mismatch
+  Perun09.vcxproj -> C:\Users\840\source\repos\Perun09\Debug\Perun09.exe
